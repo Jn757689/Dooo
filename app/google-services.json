@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1005397943435",
+    "project_id": "dooo-movieshub1-0-1",
+    "storage_bucket": "dooo-movieshub1-0-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005397943435:android:aa251a97505ea861e2e08e",
+        "android_client_info": {
+          "package_name": "com.movieshubinpire.android"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005397943435-hsln2tet1osvjja91h433hsontr9lmgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movieshubinpire.android",
+            "certificate_hash": "7de67c766eef2ff3ff8798ed04bb2a62558658d3"
+          }
+        },
+        {
+          "client_id": "1005397943435-nuj6k002bi8d6ooljhmi9qi0kqskkl71.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyn-aSaYxz9LrMR5iwq4oVhFypdLhy0CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005397943435-nuj6k002bi8d6ooljhmi9qi0kqskkl71.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
