@@ -14,6 +14,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "1005397943435-3ghk4s3nk1mm6ru7qcfnq6f7a9jmi4t3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.movieshubinpire.android",
+            "certificate_hash": "4d46986f78d352dfa03a593dbb6bcd6e6dbe922c"
+          }
+        },
+        {
           "client_id": "1005397943435-hsln2tet1osvjja91h433hsontr9lmgh.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
@@ -22,7 +30,7 @@
           }
         },
         {
-          "client_id": "1005397943435-nuj6k002bi8d6ooljhmi9qi0kqskkl71.apps.googleusercontent.com",
+          "client_id": "1005397943435-rho20obdomlv0c2v0ha1np5s18cp9re2.apps.googleusercontent.com",
           "client_type": 3
         }
       ],

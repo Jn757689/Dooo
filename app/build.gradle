@@ -16,8 +16,8 @@ android {
         minSdkVersion 23
         targetSdkVersion 33
         multiDexEnabled true
-        versionCode 51
-        versionName "2.0.3r"
+        versionCode 52
+        versionName "2.0.3s"
 
         renderscriptTargetApi 30
         renderscriptSupportModeEnabled true
@@ -49,8 +49,8 @@ android {
         }
         release {
             signingConfig signingConfigs.cert
-//            minifyEnabled true
-//            shrinkResources true
+            minifyEnabled true
+            shrinkResources true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
         }
     }
